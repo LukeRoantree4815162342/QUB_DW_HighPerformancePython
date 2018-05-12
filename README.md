@@ -13,3 +13,7 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 | Conor         | Duffy         |
 | Silas         | O'Toole       |
 | Luke          | Roantree      |
+
+Special thanks to:
+Dr. Garbriele De Chiara - for helping organise the event and booking the computer suites
+Victoria Coulter - for obtaining funding, setting up the registration, and more
