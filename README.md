@@ -21,3 +21,28 @@ Special thanks to:
 
 
 * Victoria Coulter - for obtaining funding, setting up the registration, and more
+
+
+
+
+--------------------------------------------------------
+## **What This Doesn't Cover:**
+
+### Python Refresher:
+> Object Oriented Programming
+
+
+> Interacting with computer via os and sys
+
+
+> Installing extra libraries
+
+
+### High Performance Python:
+> Multi-Threading
+
+
+> Parallel Processing
+
+
+> Cython other than via Jupyter Notebook
