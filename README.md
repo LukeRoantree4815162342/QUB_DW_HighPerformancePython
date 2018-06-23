@@ -2,6 +2,21 @@
 Code and more for the QUB Development Weeks event 'High Performance Python'
 
 
+---------------------------------------------------------------------------------------------
+
+## Next Release (Estimation mid-July) Will Include:
+> Intro To Object Oriented Python
+
+
+> Intro To Making CLI Scripts
+
+
+> An Update To The Pandas Section
+
+
+--------------------------------------------------------------------------------------------
+
+
 ![alt text](https://blogs.qub.ac.uk/footnotesqub/files/2015/03/QUBLogo.gif "QUB")
 
 
