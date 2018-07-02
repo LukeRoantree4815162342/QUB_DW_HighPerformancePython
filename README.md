@@ -8,6 +8,9 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 > Intro To Object Oriented Python
 
 
+> I/O with Files
+
+
 > Intro To Making CLI Scripts
 
 
@@ -44,10 +47,10 @@ Special thanks to:
 ## **What This Doesn't Cover:**
 
 ### Python Refresher:
-> Object Oriented Programming
+> Object Oriented Programming (Version2.0 will!)
 
 
-> Interacting with computer via os and sys
+> Interacting with computer via os and sys (Version2.0 will touch on some)
 
 
 > Installing extra libraries
