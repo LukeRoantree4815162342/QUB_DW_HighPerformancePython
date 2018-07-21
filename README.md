@@ -4,7 +4,11 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 
 ---------------------------------------------------------------------------------------------
 
-## Next Release (Estimation mid-July) Will Include:
+# Version2.0 Now Out:
+
+## Updates include - 
+
+
 > Intro To Object Oriented Python
 
 
@@ -47,10 +51,8 @@ Special thanks to:
 ## **What This Doesn't Cover:**
 
 ### Python Refresher:
-> Object Oriented Programming (Version2.0 will!)
 
-
-> Interacting with computer via os and sys (Version2.0 will touch on some)
+> Interacting with computer via os and sys (Version2.0 touches on some)
 
 
 > Installing extra libraries
