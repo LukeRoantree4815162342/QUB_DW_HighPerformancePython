@@ -24,7 +24,7 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 --------------------------------------------------------------------------------------------
 
 
-![alt text](https://blogs.qub.ac.uk/footnotesqub/files/2015/03/QUBLogo.gif "QUB")
+![QUB Logo](https://blogs.qub.ac.uk/footnotesqub/files/2015/03/QUBLogo.gif)
 
 
 
