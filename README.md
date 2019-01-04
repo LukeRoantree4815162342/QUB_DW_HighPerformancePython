@@ -12,6 +12,33 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 
 --------------------------------------------------------------------------------------------
 
+## Python Refresher Course Overview:
+> Commenting
+
+> Basic Data Types
+
+> Conditional Logic & Basic Loops
+
+> Comprehensions
+
+> Functions & Lambdas
+
+> Intro to OOP Python
+
+> Generators & Iterators
+
+> Handling Files
+
+> Numpy & Scipy
+
+> Pandas
+
+> Matplotlib
+
+> Scikit-Learn
+
+> Free External Resources (IDEs, Books, Library / Domain-Specific Tutorials, List of Useful Libraries)
+
 
 ![QUB Logo](https://blogs.qub.ac.uk/footnotesqub/files/2015/03/QUBLogo.gif)
 
@@ -50,7 +77,7 @@ Special thanks to:
 > Machine learning libraries other than Sklearn
 
 
-### High Performance Python (pre summer-2019 release):
+## High Performance Python summer-2019 release updates to include:
 > Multi-Threading
 
 
