@@ -46,11 +46,11 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 
 **Team Members**
 
-| First Name    | Last Name     |
-| ------------- |:-------------:|
-| Conor         | Duffy         |
-| Silas         | O'Toole       |
-| Luke          | Roantree      |
+| First Name    | Last Name     | 2018 | 2019 |
+| ------------- |:-------------:|:----:|:----:|
+| Conor         | Duffy         |   Y  |   N  |
+| Silas         | O'Toole       |   Y  |   N  |
+| Luke          | Roantree      |   Y  |   Y  |
 
 Special thanks to:
 
