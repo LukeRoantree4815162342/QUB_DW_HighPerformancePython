@@ -1,25 +1,13 @@
 # QUB Development Weeks: High Performance Python
 Code and more for the QUB Development Weeks event 'High Performance Python'
+*Note: In 2019 split into 'Python Refresher Course' (winter) and 'High Performance Python' (summer) due to length of additional content
 
+### Stable: [Python Refresher](PythonRefresher.ipynb)
 
+### Unstable / Untidy: [High Performance Sections (mostly tidy enough)](HighPerformance)
 ---------------------------------------------------------------------------------------------
 
-# Version2.0 Now Out:
-
-## Updates include - 
-
-
-> Intro To Object Oriented Python
-
-
-> I/O with Files
-
-
-> Intro To Making CLI Scripts
-
-
-> An Update To The Pandas Section
-
+# Version2.0 Now Out
 
 --------------------------------------------------------------------------------------------
 
@@ -58,11 +46,20 @@ Special thanks to:
 > Installing extra libraries
 
 
-### High Performance Python:
+> Machine learning libraries other than Sklearn
+
+
+### High Performance Python (pre summer-2019 release):
 > Multi-Threading
 
 
-> Parallel Processing
+> Parallel Processing (joblib and mpi4py)
 
 
 > Cython other than via Jupyter Notebook
+
+
+> Pythran
+
+
+> f2py
