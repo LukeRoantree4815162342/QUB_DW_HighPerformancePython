@@ -1,6 +1,7 @@
 # QUB Development Weeks: High Performance Python
 Code and more for the QUB Development Weeks event 'High Performance Python'
-*Note: In 2019 split into 'Python Refresher Course' (winter) and 'High Performance Python' (summer) due to length of additional content
+
+*Note: In 2019 split into 'Python Refresher Course' (winter) and 'High Performance Python' (summer) due to length of additional content*
 
 ### Stable: [Python Refresher](PythonRefresher.ipynb)
 
