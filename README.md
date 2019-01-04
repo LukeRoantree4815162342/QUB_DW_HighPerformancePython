@@ -76,7 +76,7 @@ Special thanks to:
 
 > Machine learning libraries other than Sklearn
 
-
+-------------------------------------------------------
 ## High Performance Python summer-2019 release updates to include:
 > Multi-Threading
 
