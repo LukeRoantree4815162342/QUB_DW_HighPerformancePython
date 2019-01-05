@@ -8,7 +8,7 @@ Code and more for the QUB Development Weeks event 'High Performance Python'
 ### Unstable / Untidy: [High Performance Sections (mostly tidy enough)](HighPerformance)
 ---------------------------------------------------------------------------------------------
 
-# Version2.0 Now Out
+# 2019 Updates Now Out
 
 --------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Special thanks to:
 
 ### Python Refresher:
 
-> Interacting with computer via os and sys (Version2.0 touches on some)
+> Interacting with computer via os and sys (2019 Updates touch on some)
 
 
 > Installing extra libraries
