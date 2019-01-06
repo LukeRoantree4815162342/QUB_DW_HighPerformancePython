@@ -14,7 +14,7 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('num1',type=float, help='first number')
 
-group = parser.add_mutually_exclusive_group()
+group = parser.add_mutually_exclusive_group(required=True)
 # make a mutually exlusive group - only one parameter may
 # be specified from the ones we add here
 
