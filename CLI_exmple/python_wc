@@ -9,7 +9,7 @@ parser.add_argument('input_file', nargs='?', type=ap.FileType('r'), default=sys.
 
 args = parser.parse_args()
 
-line_count, word_count, char_count  = 0, 0, 0
+line_count, word_count, char_count = 0, 0, 0
 
 with args.input_file as input_file:
     for line in input_file:
@@ -21,8 +21,7 @@ with args.input_file as input_file:
             for char in word:
                 char_count += 1
 
-char_count += word_count
-char_count += line_count
+char_count += (word_count - line_count) # account for spaces
 
 print('{} {} {}'.format(line_count, word_count, char_count))
 
