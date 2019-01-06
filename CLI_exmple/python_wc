@@ -11,14 +11,15 @@ args = parser.parse_args()
 
 line_count, word_count, char_count  = 0, 0, 0
 
-for line in args.input_file:
-    line_count += 1
+with args.input_file as input_file:
+    for line in input_file:
+        line_count += 1
 
-    for word in line.split():
-        word_count += 1
+        for word in line.split():
+            word_count += 1
 
-        for char in word:
-            char_count += 1
+            for char in word:
+                char_count += 1
 
 char_count += word_count
 char_count += line_count
