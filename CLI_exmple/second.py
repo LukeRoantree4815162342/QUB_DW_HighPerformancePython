@@ -1,4 +1,7 @@
-#!/usr/bin/env/python
+#!/usr/bin/python3
+
+# The shebang (above) is used to tell the computer what to use to run the program
+# when it is made executable. This may change slightly depending on operating system
 
 import argparse, time
 
