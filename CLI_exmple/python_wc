@@ -1,11 +1,35 @@
 #!/usr/bin/python3
 
+"""
+'wc' is a bash command for getting line,word, and character counts
+in a file. It can be called either directly;
+  $ wc <filename>
+or accept input from a pipe;
+  $ cat <filename> | wc
+and prints out 
+<num lines> <num words> <num chars>
+
+Here we recreate this with python.
+
+On Linux/Mac(/Windows via bash terminal) you can make it an executable file
+(allowing you to run it without typing python first), by ensuring the 
+shebang at the top is correct for your system, then running
+  $ chmod +x python_wc
+
+Additionally adding this directory to your $PATH variable will allow
+you to use python_wc from anywhere without needing to give the full/relative
+path to it. 
+"""
+
 import argparse as ap
 import sys 
 
 parser = ap.ArgumentParser()
 
 parser.add_argument('input_file', nargs='?', type=ap.FileType('r'), default=sys.stdin)
+# We only need one argument - the name of / path to the input file.
+# We give it a special type; argparse.FileTye - telling argparse
+# to open it as a file instead of taking the name/path as a string.
 
 args = parser.parse_args()
 
