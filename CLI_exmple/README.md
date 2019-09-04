@@ -1,10 +1,12 @@
 ## What's a CLI?
 
 A 'CLI' is a 'Command Line Interface' for a program/tool. They're commonly used by programmers who enjoy working from a terminal (or don't enjoy it but need to anyway), and are much easier to build than graphical user interfaces (GUIs) or web-apps. As they're much easier to build, they're often used for prototyping tools/ideas in order to get the main bulk processing and such figured out before worrying about how it should look to a user. 
+---
 
 ## What CLI programs might I have used before?
 
 If you use a version of Linux, you'll almost certainly have used some in the terminal - most common shell commands are technically CLI interfaces to programs, e.g. 'grep' for searching a file for keywords / regular expressions, or 'wc' for counting lines, words, and characters in a file. In the last example here, we make 'python\_wc' - a python implementation of the wc tool. Other than a few small differences when given unusual input (and processing speed for large files), it should be roughly interchangeable for the standard wc command.
+
 --------------------------------------------------------------------------------------------
 
 ## Examples Order:
